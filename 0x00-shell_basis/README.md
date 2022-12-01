@@ -1,2 +1,2 @@
 #!/bin/bash
-This repository is to test executable commands
+0x00-shell_basics script prints the absolute path name of the current working directory. \n
