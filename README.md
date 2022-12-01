@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-Alx student
+#!/bin/bash
+This repository is to test executable commands
